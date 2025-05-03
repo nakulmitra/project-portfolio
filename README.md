@@ -4,7 +4,7 @@ Welcome to my project portfolio. Below you'll find a curated list of my personal
 
 ## Professional Projects
 
-### 🔹 Prime Events (TCS - Internal Project)
+### 1. Prime Events (TCS - Internal Project)
 - **Role:** Project Lead
 - **Tech Stack:** Java, Spring Boot, Redis, PostgreSQL, AngularJS
 - **Note:** Internal project - not publicly accessible.
@@ -12,20 +12,21 @@ Welcome to my project portfolio. Below you'll find a curated list of my personal
 
 ## Personal Projects
 
-### 🔹 Scientific Calculator
-- **Tech Stack:** Python, Tkinter
-> A GUI-based calculator application developed using Python that supports scientific computations and functions like trigonometry, logarithms, exponentiation, and more.
-- [🔗 View Project](https://github.com/nakulmitra/Scientific-Calculator)
-
-### 🔹 COVID-19 Tracker
-- **Tech Stack:** Python, REST APIs
-> A Python-based application that fetches live COVID-19 statistics via APIs and presents real-time global and country-specific case data.
-- [🔗 View Project](https://github.com/nakulmitra/Covid-19-Tracker)
-
-### 🔹 Vegetation Classification using Leaf Images
+### 1. Vegetation Classification using Leaf Images
 - **Tech Stack:** Python, OpenCV, CNN
-> Implemented an image classification model using CNN to categorize leaf images into 7 vegetation classes. Achieved 96.4% accuracy on the validation dataset using 350 training and 92 testing images.
 - [🔗 View Project](https://github.com/nakulmitra/Vegetation-Classification-based-on-Leaf-Pattern)
+> Implemented an image classification model using CNN to categorize leaf images into 7 vegetation classes. Achieved 96.4% accuracy on the validation dataset using 350 training and 92 testing images.
+
+### 2. COVID-19 Tracker
+- **Tech Stack:** Python, Tkinter, REST APIs
+- [🔗 View Project](https://github.com/nakulmitra/Covid-19-Tracker)
+> A Python-based application that fetches live COVID-19 statistics via APIs and presents real-time global and country-specific case data.
+
+### 3. Scientific Calculator
+- **Tech Stack:** Python, Tkinter
+- [🔗 View Project](https://github.com/nakulmitra/Scientific-Calculator)
+> A GUI-based calculator application developed using Python that supports scientific computations and functions like trigonometry, logarithms, exponentiation, and more.
+
 
 ## Dev Portal (YouTube Projects)
 I've created several tutorials and mini-projects available on my [YouTube channel](https://www.youtube.com/@DevPortal2114), including:
