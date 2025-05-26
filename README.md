@@ -13,7 +13,7 @@ Welcome to my project portfolio. Below you'll find a curated list of my personal
 ## Personal Projects
 
 ### 1. URL Shortener
-- **Tech Stack:** Java 8, Sprint Boot, PostgreSQL, Maven (for backend), SLF4J
+- **Tech Stack:** Java 8, Sprint Boot, PostgreSQL, Maven (for backend), Redis, SLF4J
 - 👉🏻 [View Project](https://github.com/nakulmitra/url-shortner)
 > A URL Shortener application built using Spring Boot (Java 8), and PostgreSQL.
 >This application allows you to:
