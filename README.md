@@ -2,25 +2,38 @@
 
 Welcome to my project portfolio. Below you'll find a curated list of my personal and professional projects along with short descriptions and key technologies used.
 
+## About Me
+
+I'm a passionate Software Developer with over 3.8 years of experience in building robust backend systems using Java, Spring Boot, PostgreSQL, and Redis. I specialize in designing scalable microservice architectures and have a keen interest in performance optimization and system design.
+
 ## Professional Projects
 
 ### 1. Prime Events (TCS - Internal Project)
 - **Role:** Project Lead
-- **Tech Stack:** Java, Spring Boot, Redis, PostgreSQL, AngularJS
+- **Tech Stack:** Java, Spring Boot, Redis, PostgreSQL, SlF4J, Maven, AOP, AngularJS, REST API
 - **Note:** Internal project - not publicly accessible.
 > Prime Events is a robust event management platform supporting diverse event types like meetings, workshops, and ideathons. Features include configurable questionnaires, participant submissions, jury evaluations, idea ranking, offline evaluations, and analytics exports. I led backend development and handled tech stack migration, system optimization, and feature enhancements.
 
 ## Personal Projects
 
 ### 1. URL Shortener
-- **Tech Stack:** Java 8, Sprint Boot, PostgreSQL, Maven (for backend), Redis, SLF4J
+- **Tech Stack:** Java 8, Spring Boot, Spring MVC, PostgreSQL, Redis, Maven, AOP, Exception Handling, Logging (Logback), REST API
 - 👉🏻 [View Project](https://github.com/nakulmitra/url-shortner)
-> A URL Shortener application built using Spring Boot (Java 8), and PostgreSQL.
->This application allows you to:
+> A scalable and performant backend system for shortening long URLs, retrieving original URLs, and tracking usage statistics. The application is optimized for high traffic and extendable for future architectural improvements.
+
+> This application allows you to:
 > 1. Enter a long/original URL and get a shortened version.
 > 2. Provide a short URL and retrieve the original long URL.
 > 3. Keep track of how many times each shortened URL is accessed.
 
+**Features**
+> 1. Short URL generation using random encoding.
+> 2. Long URL retrieval via unique short keys.
+> 3. Click tracking for each shortened URL.
+> 4. Redis caching to offload read operations from PostgreSQL.
+> 5. Structured audit and application logs saved in daily rotating files.
+> 6. Redis-based rate limiting for public API protection.
+> 7. Centralized global exception handling for all endpoints.
 
 ### 2. Vegetation Classification using Leaf Images
 - **Tech Stack:** Python, OpenCV, CNN
