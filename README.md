@@ -4,7 +4,7 @@ Welcome to my project portfolio. Below you'll find a curated list of my personal
 
 ## About Me
 
-I'm a passionate Software Developer with over 3.8 years of experience in building robust backend systems using Java, Spring Boot, PostgreSQL, and Redis. I specialize in designing scalable microservice architectures and have a keen interest in performance optimization and system design.
+I'm a passionate Software Developer with over 4 years of experience in building robust backend systems using Java, Spring Boot, PostgreSQL, and Redis. I specialize in designing scalable microservice architectures and have a keen interest in performance optimization and system design.
 
 ## Professional Projects
 
